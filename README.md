@@ -9,4 +9,4 @@ In terminal:
 
 How to build successfully
 =========================
-Change [src/main/kotlin/Sample.kt] file (follow the comments inside) and then run the build again.
+Change /src/main/kotlin/Sample.kt file (follow the comments inside) and then run the build again.
