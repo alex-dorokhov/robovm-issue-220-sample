@@ -1,0 +1,6 @@
+<config>
+  <executableName>Issue220</executableName>
+  <mainClass>SampleKt</mainClass>
+  <target>console</target>
+  <treeShaker>aggressive</treeShaker>
+</config>
