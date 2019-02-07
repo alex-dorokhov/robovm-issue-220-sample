@@ -1,4 +1,4 @@
-This is the sample project to demonstrate [https://github.com/MobiVM/robovm/issues/220]
+This is the sample project to demonstrate https://github.com/MobiVM/robovm/issues/220
 
 How to build to see the issue
 =============================
